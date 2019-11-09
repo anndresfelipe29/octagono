@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Octágono | Publicidad Bogotá</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <meta name="robots" content="index, follow"/>
+    
+    <meta name="description" content="Somos Octágono, una agencia de publicidad y marketing digital enfocada en medios digitales.Creamos y diseñamos ideas nuevas e innovadoras que ayudan a nuestros clientes a tener el factor diferenciador y único que la caracteriza." >
+    
+    
+    <meta name="keywords" content="octagono, publicidad, bogota, publicidad en bogota, marketing,comunity management">
+    <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
+    <meta property="og:title" content="">
+    <meta property="og:image" content="">
+    <meta property="og:url" content="">
+    <meta property="og:site_name" content="">
+    <meta property="og:description" content="">
+
+    
+    <meta name="author" content="Andrés Gómez" />
+    <meta name="google" content="notranslate" />
+    
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+   
+
+    <!-- Place your favicon.ico and apple-touch-icon.png in the template root directory -->
+    <link href="img/IconosServicios/ICONO%20LOGO%20200X200.png" rel="shortcut icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="lib/animate-css/animate.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    Proyecto: Octagono    
+    Author: Felipe Gomez
+   
+  ======================================================= -->
+</head>
+
+<body>
+
+
+
+
+
+    <div id="preloader"></div>
+
+
+
+
+
+
+    <!--==========================
+  Hero Section    banner inicial
+  ============================-->
+
+    <div id="fullpage">
+
+
+        <section id="hero" class="">
+            <embed/>
+            <div class="elvideo">
+                <video id="video" muted preload="true" autoplay="autoplay" loop poster="pic.jpg" class="fillWidth">
+               <source src="img/BannerPrincipal/City.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'> 
+                <source src="img/BannerPrincipal/City.webm" type="video/webm">
+                <source src="img/BannerPrincipal/City.ogv" type='video/ogg; codecs="theora, vorbis"'>
+                  <br><br><br><br><br>Lo sentimos. Este vídeo no puede ser reproducido en tu navegador.<br>
+                
+			     </video>
+            </div>
+            
+            <div class="hero-container">
+
+
+
+
+                <!--==========================
+                 Header Section   menu
+                  ============================-->
+                <header id="header">
+                    <div class="container">
+                        <div id="logo" class="">
+                            <a href="#hero"><img src="img/BannerPrincipal/GIF-PARA-WEB-PROVISIONAL.gif"  alt="" title=""  /></img></a>
+                            <!-- Uncomment below if you prefer to use a text image -->
+                            <!--<h1><a href="#hero">Header 1</a></h1>-->
+                        </div>
+
+                        <nav id="nav-menu-container">
+                            <ul class="nav-menu menu-social">
+                                <li> <a href="https://www.facebook.com/Publicidad.Octagono/"><i class="fa fa-facebook"></i></a> </li>
+                                <li> <a href="https://www.instagram.com/publicidad.octagono/?hl=es-la"><i class="fa fa-instagram"></i></a> </li>
+                                <li> <a href="https://www.linkedin.com/company/oct%C3%A1gonoagenciadepublicidad/"><i class="fa fa-linkedin-square"></i></a> </li>
+                            </ul>
+                            <ul class="nav-menu menu-general">
+                                <li class="menu-active"><a href="#hero">Inicio</a></li>
+                                <li><a href="#services">Servicios</a></li>
+                                <li><a href="#trabajos">Trabajos</a></li>
+                                <li><a href="#contact">Contacto</a></li>
+                                <li><a href="/html/blog.html">Blog</a></li>
+
+
+                            </ul>
+                        </nav>
+
+
+                        <!-- #nav-menu-container -->
+                    </div>
+                </header>
+                <!-- #header -->
+
+
+
+                <!--  aca va el texto del banner inicial  -->
+                <div class="wow fadeIn">
+                    <div class="hero-logo">
+                        <img class="" src="img/LOGO%20600%20X300.png" alt="OctagonoLogo">
+                    </div>
+<!--                    <div class="texto-bienvenida">
+                        <h3> Somos Octágono, una agencia de publicidad y marketing digital enfocada en medios digitales. Creamos y diseñamos ideas nuevas e innovadoras que ayudan a nuestros clientes a tener el factor diferenciador y único que la caracteriza.
+                        </h3>
+                    </div>-->
+
+                    <h2><span class="rotating">Construcción de marca, Diseño y desarrollo web, Redes sociales, Publicidad y marketing, Branding</span></h2>
+                    <div class="actions">
+                        <a href="#services" class="btn-get-servicios">Servicios</a>
+                        <a href="#contact" class="btn-experiencia">Contacto</a>
+                    </div>
+                </div>
+                <!--  aca termina  -->
+
+            </div>
+        </section>
+
+
+
+        <!--==========================
+  Services Section
+  ============================-->
+        <section id="services">
+
+            <div class="hero-container">
+
+            <div class="container wow fadeInUp">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 class="section-title">Servicios</h3>
+                        <div class="section-title-divider"></div>
+
+                        <p class="section-description">A continuación te presentamos nuestros servicios</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-6 service-item  ">
+                        <div id="icono-servicios" class="branding">
+
+                        </div>
+                        <div class="texto">
+                            <h4 class="service-title"><a href="">BRANDING</a></h4>
+                            <p class="service-description">Creamos y diseñamos tu marca con la personalidad y el toque especial que la caracteriza, tú decides las características especiales y nosotros le damos vida.</p>
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 service-item ">
+                        <div id="icono-servicios" class="disenoGrafico">
+
+                        </div>
+                        <div class="texto">
+                            <h4 class="service-title"><a href="">DISEÑO GRAFICO</a></h4>
+                            <p class="service-description">Una imagen vale más que mil palabras, nosotros te la diseñamos con la esencia y facilidad de transmitir ideas o mensajes.</p>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 col-sm-6  service-item">
+                        <div id="icono-servicios" class="socialMedia">
+                        </div>
+                        <div class="texto">
+                            <h4 class="service-title"><a href="">SOCIAL MEDIA</a></h4>
+
+                            <p class="service-description">Las redes sociales cuentan historias y experiencias. Nosotros desarrollamos estrategias de comunicación para que tu empresa genere recordación, fidelidad y experiencias, no una historia más sin sentido.</p>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-4 col-sm-6 service-item">
+                        <div id="icono-servicios" class="fotografia">
+
+                        </div>
+                        <div class="texto">
+                            <h4 class="service-title"><a href="">FOTOGRAFÍA </a></h4>
+                            <p class="service-description">Si quieres mostrar las propiedades de tus productos o servicios, contamos con un servicio de fotografía integral ideal para campañas publicitarias, diseño web, branding y fotografía de productos.</p>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 service-item">
+                        <div id="icono-servicios" class="disenoWeb">
+
+                        </div>
+                        <div class="texto">
+                            <h4 class="service-title"><a href="">DISEÑO WEB</a></h4>
+                            <p class="service-description">Si estás preparado para crear un sitio virtual en donde el mundo entero te pueda ver desde sus computadores, móviles y tablets. Nosotros te lo creamos con diseños modernos y atractivos para que tu carta de presentación sea todo un éxito.</p>
+                        </div>
+
+                    </div>
+
+
+
+                    <div class="col-md-4 col-sm-6 service-item">
+                        <div id="icono-servicios" class="impresos">
+
+                        </div>
+                        <div class="texto">
+                            <h4 class="service-title"><a href="">BTL</a></h4>
+                            <p class="service-description">Las propiedades de un producto o servicio te hacen competir, las experiencias que generas te diferencian. Creamos experiencias innovadoras y creativas que conectan tú marca con los clientes.</p>
+
+                        </div>
+
+                    </div>
+
+
+
+
+                </div>
+
+
+            </div>
+        </section>
+
+
+
+        <!--==========================
+  Trabajos Section
+  ============================-->
+        <section id="trabajos">
+            <div class="container wow fadeInUp">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 class="section-title">Trabajos</h3>
+                        <div class="section-title-divider"></div>
+                        <!--                        <p class="section-description">aja y tu que?</p>-->
+                    </div>
+                </div>
+
+                <div class="row sinpadding">
+
+
+                    <div class="col-md-4 col-sm-6">
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item" >
+                                <img class="img-fluid" src="img/Trabajos/LOGO%20BLUES.jpg" alt="">
+                                <div class="details">
+
+                                    <h4>Branding</h4>
+                                    <!--<span></span>-->
+                                </div>
+
+                            </a>
+                        </div>
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item" >
+                                <img class="img-fluid" src="img/Trabajos/PAPELERIA.jpg" alt="">
+                                <div class="details">
+                                   
+                                    <h4>Impresos y merchandising</h4>
+                                   <!-- <span>Realizamos cualquier tipo de impresión y creamos artículos con el nombre personalizado de tu empresa para que le puedas regalar a tus clientes.</span>-->
+                                </div>
+                                
+                            </a>
+                        </div>
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item" >
+                            <img class="img-fluid" src="img/Trabajos/WEB.jpg" alt="">
+                           
+                            <div class="details">
+                                <h4>Diseño Web</h4>
+                                <!--<span></span>-->
+                            </div>
+                            
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item" >
+                          <img class="img-fluid" src="img/Trabajos/BTL2.jpg" alt="">
+                            <div class="details">
+                                <h4>BTL</h4>
+                                <!--<span>Alored dono par</span>-->
+                            </div>
+                            </a>
+                        </div>
+                        
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item" >
+                          <img class="img-fluid" src="img/Trabajos/LOGO%20FINAL%20ALMA%20VIVA%202%20FONDO%20NEGRO.jpg" alt="">
+                            <div class="details">
+                                <h4>Branding</h4>
+                                <!--<span>Alored dono par</span>-->
+                            </div>
+                            </a>
+                        </div>
+
+                    </div>
+
+
+
+
+
+
+                    <div class="col-md-4 col-sm-6">
+
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item">
+                          <img class="img-fluid" src="img/Trabajos/fotograf%C3%ADa.jpg" alt="">
+                            <div class="details">
+                                <h4>Fotografia</h4>
+<!--                                <span>Si quieres mostrar las propiedades de tus productos o servicios, contamos con un servicio de fotografía integral ideal para campañas publicitarias, diseño web, branding y fotografía de productos.</span>-->
+                            </div>
+                            </a>
+                        </div>
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item">
+                                <img class="img-fluid" src="img/Trabajos/packgingBotella.jpg" alt="">                                
+                                <div class="details">
+                                   
+                                    <h4>Mershandising</h4>
+                                   <!-- <span>Alored dono par</span>-->
+                                </div>
+                                
+                            </a>
+                        </div>
+
+                        <!-- <div class="trabajos-item ">
+                            <a class="portfolio-item" href="">
+                                <img class="img-fluid" src="img/portfolio-8.jpg" alt="">
+                                <video preload="true" autoplay="autoplay" loop volume="0" poster="pic.jpg"  class="fillWidth">
+				                    <source src="https://morning-shelf-6185.herokuapp.com/assets/2015-01-01-bokeh-6e0d97b003dff1c88b95db3126cd4788.mp4"> 
+			                    </video>
+                                <div class="details">
+                                    <h4>Portfolio 1</h4>
+                                    <span>Alored dono par</span>
+                                </div>
+                            </a>
+                        </div>
+
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item" href="">
+                                <img class="img-fluid" src="img/portfolio-4.jpg" alt="">
+                                <div class="details">
+                                   
+                                    <h4>Portfolio 2</h4>
+                                    <span>Alored dono par</span>
+                                </div>
+                                
+                            </a>
+                        </div>
+
+                        <div class="trabajos-item ">
+                            <a class="portfolio-item" href="">
+                                <video preload="true" autoplay="autoplay" loop volume="0" poster="pic.jpg"  class="fillWidth">
+				                    <source src="https://morning-shelf-6185.herokuapp.com/assets/2015-01-01-bokeh-6e0d97b003dff1c88b95db3126cd4788.mp4"> 
+			                    </video>
+                                <div class="details">
+                                   
+                                    <h4>Portfolio 2</h4>
+                                    <span>Alored dono par</span>
+                                </div>
+                                
+                            </a>
+                        </div>-->
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </section>
+
+
+
+
+        <!--==========================
+  Contact Section
+  ============================-->
+        <section id="contact">
+            <div class="container wow fadeInUp ">
+                <div class="row frases">
+                    <div class="col-md-12">
+                        <div class="frases-texto">
+                            <!-- <h3 class="titulo-frases" >¿Estas listo para </h3><h3 class="titulo-frases rotating">posicionar tu marca?,atraer clientes?,diferenciarte de los demas?,enseñarle al mundo tu producto?,hacer las cosas diferentes?</h3>-->
+                            <h3 class="titulo-frases rotating">¿Estas listo para posicionar tu marca?,¿Estas listo para atraer clientes?,¿Estas listo para diferenciarte de los demas?,¿Estas listo para enseñarle al mundo tu producto?,¿Estas listo para hacer las cosas diferentes?</h3>
+
+                        </div>
+
+                        <div class="section-title-divider"></div>
+                        <br><br>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 class="section-title">Contacto</h3>
+                        <div class="section-title-divider"></div>
+                        <!-- <p class="section-description">Contactanos y haz realidad tus ideas</p>-->
+                    </div>
+
+                </div>
+                <div class="row contacto">
+
+
+                    <div class="col-md-2 ">
+                        <!--                            <img class="img-fluid" src="img/Logo/LOGO%20ICON.png" alt="">-->
+                        <div class="info">
+                            <h4 class="titulos-contacto">Dirección</h4>
+                            <i class="fa fa-map-marker"></i>
+                            <p>Bogotá, Colombia</p>
+                        </div>
+
+                    </div>
+
+                    <div class="col-md-3  ">
+                        <div class="info">
+                            <div>
+                                <h4 class="titulos-contacto">Teléfonos</h4>
+                                <i class="fa fa-phone"></i>
+                                <p>+57 310 888 5661</p>
+
+                                <i class="fa fa-phone"></i>
+                                <p>+57 319 554 7838</p>
+
+                                <h4 class="titulos-contacto">Mail</h4>
+                                <i class="fa fa-envelope"></i>
+                                <p>tengounaidea@octagono.com.co</p>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-md-3 social">
+                        <div class="info">
+                            <div>
+                                <h4 class="titulos-contacto ">Social</h4>
+                                <a href="https://www.facebook.com/Publicidad.Octagono/"><i class="fa fa-facebook"></i>
+                                <p>/Publicidad.Octagono</p></a>
+                                <a href="https://www.instagram.com/publicidad.octagono/?hl=es-la"><i class="fa fa-instagram"></i>
+                                <p>@Publicidad.Octagono</p></a>
+                                <a href="https://www.linkedin.com/company/oct%C3%A1gonoagenciadepublicidad/"><i class="fa fa-linkedin-square"></i>
+                                <p>Octágono</p></a>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="col-md-3">
+                        <div class="form">
+                            <div id="sendmessage">Se ha enviado satisfactoriamente el mensaje. Gracias</div>
+                            <div id="errormessage"></div>
+
+                            <form action="js/envioMail.php" method="post" role="form">
+                                <!-- class="contactForm" -->
+                                <div class="form-group">
+                                    <input type="text" name="nombre" class="form-control" id="name" placeholder="Nombre" data-rule="minlen:4" data-msg="Por lo menos 4 caracteres" />
+                                    <div class="validation"></div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" name="email" id="email" placeholder="Correo" data-rule="email" data-msg="Ingrese un correo valido" />
+                                    <div class="validation"></div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" name="asunto" id="Subject" placeholder="asunto" data-rule="minlen:4" data-msg="Ingrese un texto mas largo" />
+                                    <div class="validation"></div>
+                                </div>
+                                <div class="form-group">
+                                    <textarea class="form-control" name="mensaje" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
+                                    <div class="validation"></div>
+                                </div>
+
+                                <div class="text-center"><button type="submit">Enviar</button></div>
+                            </form>
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </div>
+        </section>
+
+
+    </div>
+
+    <!--==========================
+  Footer
+============================-->
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="  copyright">
+                        &copy; <strong>Octagono</strong>| 2018 Derechos reservados
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- #footer -->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- Required JavaScript Libraries -->
+    <script src="lib/jquery/jquery.min.js"></script>
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/superfish/hoverIntent.js"></script>
+    <script src="lib/superfish/superfish.min.js"></script>
+    <script src="lib/morphext/morphext.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/stickyjs/sticky.js"></script>
+    <script src="lib/easing/easing.js"></script>
+
+    <!-- Template Specisifc Custom Javascript File -->
+    <script src="js/custom.js"></script>
+
+
+    <script src="contactform/contactform.js"></script>
+
+</body>
+
+</html>

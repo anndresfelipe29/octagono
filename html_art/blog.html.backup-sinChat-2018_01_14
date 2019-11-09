@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Blog</title>
+    <!-- Place your favicon.ico and apple-touch-icon.png in the template root directory -->
+    <link href="img/IconosServicios/ICONO%20LOGO%20200X200.png" rel="shortcut icon">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+    <!-- Bootstrap CSS File -->
+    <link href="../lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Libraries CSS Files -->
+    <link href="../lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="../lib/animate-css/animate.min.css" rel="stylesheet">
+
+    <!-- Main Stylesheet File -->
+    <link href="../css/style.css" rel="stylesheet">
+
+    <!-- =======================================================
+    Proyecto: Octagono    
+    Author: Felipe Gomez
+   
+  ======================================================= -->
+</head>
+
+<body>
+
+    <div id="preloader"></div>
+
+
+    <!--==========================
+                 Header Section   menu
+                  ============================-->
+    <header id="header">
+        <div class="container">
+            <div id="logo" class="pull-right">
+
+                <a href="#hero"><img src="img/BannerPrincipal/GIF-OCTAGO-F.gif"  alt="" title=""  /></img></a>
+                <!-- Uncomment below if you prefer to use a text image -->
+                <!--<h1><a href="#hero">Header 1</a></h1>-->
+            </div>
+
+            <nav id="nav-menu-container">
+
+                <ul class="nav-menu menu-social">
+                    <li> <a href="https://www.facebook.com/Publicidad.Octagono/"><i class="fa fa-facebook"></i></a> </li>
+                    <li> <a href="https://www.instagram.com/octagono.agenciadepublicidad/?hl=es"><i class="fa fa-instagram"></i></a> </li>
+                    <li> <a href="https://twitter.com/?lang=es"><i class="fa fa-linkedin-square"></i></a> </li>
+
+                </ul>
+                <ul class="nav-menu menu-general">
+                    <li class="menu-active"><a href="../index.html#hero">Inicio</a></li>
+                    <li><a href="../index.html#service">Servicios</a></li>
+                    <li><a href="../index.html#trabajos">Trabajos</a></li>
+                    <li><a href="../index.html#contact">Contacto</a></li>
+                    <li><a href="#principal">Blog</a></li>
+
+
+                </ul>
+            </nav>
+
+
+            <!-- #nav-menu-container -->
+        </div>
+    </header>
+    <!-- #header -->
+
+    <section id="principal" class="">
+        hola hola
+
+    </section>
+
+
+    <!--==========================
+  Footer
+============================-->
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+                    <div class="  copyright">
+                        &copy; <strong>Octagono</strong>| 2018 Derechos reservados
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- #footer -->
+
+    <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+    <!-- Required JavaScript Libraries -->
+    <script src="../lib/jquery/jquery.min.js"></script>
+    <script src="../lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/superfish/hoverIntent.js"></script>
+    <script src="lib/superfish/superfish.min.js"></script>
+    <script src="lib/morphext/morphext.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/stickyjs/sticky.js"></script>
+    <script src="lib/easing/easing.js"></script>
+
+    <!-- Template Specisifc Custom Javascript File -->
+    <script src="../js/custom.js"></script>
+
+
+    <script src="../contactform/contactform.js"></script>
+
+
+
+
+</html>

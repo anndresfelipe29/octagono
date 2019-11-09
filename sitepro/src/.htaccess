@@ -1,0 +1,16 @@
+
+<ifModule mod_authz_core.c>
+	Require all denied
+</ifModule>
+<ifModule !mod_authz_core.c>
+	Order allow,deny
+</ifModule>
+
+#### PERSISTENT CONTENT ####
+
+
+
+#### PERSISTENT CONTENT END ####
+
+#### PERSISTENT CONTENT ####
+
